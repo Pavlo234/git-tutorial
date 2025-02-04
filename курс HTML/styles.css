@@ -1,0 +1,12 @@
+.box{
+    width: 90px;
+    height: 90px;
+    margin: 20px;
+    padding: 30;
+    border: 5px solid indianred;
+}
+
+.pox{
+    width: 50px;
+    height: 40px;
+}
