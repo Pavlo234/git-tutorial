@@ -85,3 +85,5 @@ def number_property(n):
 # print(number_property(210))
 
 print((10**0.5))
+
+gitt = 90090
